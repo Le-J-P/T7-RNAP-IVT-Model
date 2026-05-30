@@ -4,6 +4,7 @@
 
 *Jean-Philippe Seiler — FH Aachen University of Applied Sciences — March 2026*
 
+This model was developed as part of a two‑month internship project at FH Aachen.
 ---
 
 ## Table of Contents
@@ -308,9 +309,11 @@ T7-RNAP-IVT-Model/
 ## Software
 
 | Tool | Purpose |
-|---|---|
+|------|---------|
 | [COPASI](http://copasi.org/) | ODE model building, simulation, and parameter scanning |
 | SBML (Systems Biology Markup Language) | Model exchange format |
+| [Newt Editor](https://newteditor.org/) | SBGN diagram creation for pathway and reaction network visualization |
+| GraphPad Prism | figure generation |
 
 ---
 
@@ -321,19 +324,6 @@ T7-RNAP-IVT-Model/
 - **Gholamilipour, Y. et al. (2018)** — Experimental demonstration of the 3′-loopback mechanism; T7 RNAP rebinds mRNA 3′ end for distributive primer extension.
 - **Stover, C. et al. (2025)** — Mechanistic modeling of initiation/elongation competition and dsRNA generation via 3′-loopback under mass-action kinetics.
 - **Gunderson, S.I. et al. (1987)** — Binding constants of T7 RNAP for promoter vs. non-promoter DNA sites (~10⁴-fold difference).
-
----
-
-## Citation
-
-If you use this model or find it helpful, please cite:
-
-```
-Seiler, J.-P. (2026). Mechanistic Modeling of In Vitro Transcription:
-A Quality by Design Approach to Predict mRNA Yield and dsRNA Impurities.
-FH Aachen University of Applied Sciences.
-```
-
 ---
 
 *© 2026 Jean-Philippe Seiler — FH Aachen University of Applied Sciences*
