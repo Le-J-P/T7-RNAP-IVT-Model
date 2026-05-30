@@ -3,6 +3,7 @@
 > **Mechanistic Modeling of In Vitro Transcription: A Quality by Design Approach to Predict mRNA Yield and dsRNA Impurities**
 
 *Jean-Philippe Seiler — FH Aachen University of Applied Sciences — March 2026*
+
 This model was developed as part of a two‑month internship project at FH Aachen.
 ---
 
