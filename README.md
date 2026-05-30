@@ -302,7 +302,6 @@ T7-RNAP-IVT-Model/
     └── references.txt
 ```
 
-> **Note on filenames:** GitHub is case-sensitive. Make sure your filenames match exactly as listed above, including spaces.
 
 ---
 
